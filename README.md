@@ -59,7 +59,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 --- 
+
 [![Alilabib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alilabib)](https://github.com/anuraghazra/github-readme-stats)
+![Alilabib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alilabib&count_private=true)
 
 [![Alilabib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alilabib)](https://github.com/anuraghazra/github-readme-stats)
 
