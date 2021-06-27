@@ -2,10 +2,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ali_labib_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falilabib&screen_name=ali_labib_)
 
 ## I'm Software Developer !
--✅I'm currently working as a software developer in AIIT
--🚀 I'm currently learning RPA , ML .
--🚨 I'm currently create a Tutorials .
--🕘2021 Goals : Contribute more to Open Source Projects - Be AWS Certified Developer .
+-✅I'm currently working as a software developer in AIIT <br>
+-🚀 I'm currently learning RPA , ML . <br>
+-🚨 I'm currently create a Tutorials . <br>
+-🕘2021 Goals : Contribute more to Open Source Projects - Be AWS Certified Developer . <br>
 
 ### Connect with me:
 
