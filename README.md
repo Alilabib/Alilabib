@@ -61,13 +61,9 @@
 --- 
 
 ![Alilabib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alilabib&show_icons=true&theme=radical)
-<a href="https://github.com/Alilabib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alilabib&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Alilabib/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alilabib&repo=convoychat" />
-</a>
-[![Alilabib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alilabib)](https://github.com/Alilabib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alilabib)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alilabib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alilabib)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [facebook]: https://www.facebook.com/ali.labib.925/
