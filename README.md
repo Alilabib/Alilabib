@@ -52,6 +52,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+--- 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alilabib)](https://github.com/alilabib/github-readme-stats)
+
+
 [facebook]: https://www.facebook.com/ali.labib.925/
 [twitter]: https://twitter.com/ali_labib_
 [youtube]: https://www.youtube.com/channel/UCFNGJILfuD9Rks3xL3zdsPg
