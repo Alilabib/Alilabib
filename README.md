@@ -37,6 +37,13 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 [<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][youtube]
 
+<br/>
+<br/>
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [facebook]: https://www.facebook.com/ali.labib.925/
 [twitter]: https://twitter.com/ali_labib_
 [youtube]: https://www.youtube.com/channel/UCFNGJILfuD9Rks3xL3zdsPg
