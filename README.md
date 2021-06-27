@@ -60,7 +60,7 @@
 
 --- 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alilabib)](https://github.com/alilabib/github-readme-stats)
+[![Alilabib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alilabib)](https://github.com/Alilabib/github-readme-stats)
 
 
 [facebook]: https://www.facebook.com/ali.labib.925/
