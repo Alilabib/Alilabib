@@ -42,9 +42,9 @@
 
 ---
 
-### Latest YouTube Videos
-<!--- YOUTUBE:START --->
-<!--- YOUTUBE:END --->
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
