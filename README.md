@@ -55,7 +55,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Difference Between using new Promise() and Async/await ?](https://dev.to/alilabib/what-difference-between-using-new-promise-and-async-await-4j96)
+- [What Difference Between using new Promise&lpar;&rpar; and Async/await ?](https://dev.to/alilabib/what-difference-between-using-new-promise-and-async-await-4j96)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
