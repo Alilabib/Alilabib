@@ -44,8 +44,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [3- Vue Instance  &  Data](https://www.youtube.com/watch?v=Azxf5mslXhc)
-- [2 - Setup & Tools](https://www.youtube.com/watch?v=2RVJUb-Owhg)
+- [3- Vue Instance  &amp;  Data](https://www.youtube.com/watch?v=Azxf5mslXhc)
+- [2 - Setup &amp; Tools](https://www.youtube.com/watch?v=2RVJUb-Owhg)
 - [Hand Detection](https://www.youtube.com/watch?v=hO5GDN_ek2s)
 - [1 - Intro](https://www.youtube.com/watch?v=60GUXUX9h40)
 - [Sign Language Conversion  using Arduino](https://www.youtube.com/watch?v=CSrYydS0zJI)
